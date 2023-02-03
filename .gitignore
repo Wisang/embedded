@@ -3,3 +3,8 @@
 *.a
 *.icf
 *.o
+*.dep
+*.ewp
+*.eww
+Debug/
+settings/
