@@ -1,21 +1,10 @@
 
 int main() {
-    unsigned int counter = 0;
+    int counter = 0;
     
-    counter++;
-    counter++;
-    counter++;
-    counter++;
-    counter++;
-    counter++;
-    counter++;
-    counter++;
-    counter++;
-    counter++;
-    counter++;
-    counter++;
-    counter++;
-    counter++;
+    while(counter < 20) {
+      counter++;
+    }
     
     return 0;
 }
